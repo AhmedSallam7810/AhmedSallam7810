@@ -3,13 +3,10 @@
 <h1> Hi There, Welcome to my Github profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=800&size=32&duration=4000&pause=500&center=true&vCenter=true&width=600&height=100&lines=Hi%F0%9F%91%8B%2CI'am-Ahmed-Sallam;Backen-Developer" alt="Typing SVG" /></a>
 </div>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
 <br>
-
 Passionate backend developer with a solid understanding of programming fundamentals and experience working with the Laravel framework. Good knowledge in Node.js and React.js, demonstrating a quick learning ability and strong collaborative skills. Dedicated to delivering scalable, and maintainable software solutions. Eager to continue growing as a developer and contribute to a dynamic team-oriented environment.
-- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1K21YjDERhSxZsdYc2BPp9KqzhkRtDzC0/view?usp=drive_link).
+- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/11wQwD_6xmGw0pAuMcMZP-m2MNA1C1Ga4/view?usp=sharing).
 - 💬 Ask me about anything.
   
 <br>
@@ -33,9 +30,9 @@ Passionate backend developer with a solid understanding of programming fundament
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Bootstrap](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![jQuary](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=jquary&logoColor=white)
-   ![AJAX](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=ajax&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![jQuary](https://img.shields.io/badge/jQuary%20-%231572B6.svg?style=for-the-badge&logo=jquary&logoColor=white)
+   ![AJAX](https://img.shields.io/badge/Ajax%20-%231572B6.svg?style=for-the-badge&logo=ajax&logoColor=white)
    ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 
