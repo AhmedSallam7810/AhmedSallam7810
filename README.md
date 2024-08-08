@@ -34,14 +34,13 @@ Passionate backend developer with a solid understanding of programming fundament
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-   ![jQuary](https://img.shields.io/badge/jQuary%20-%231572B6.svg?style=for-the-badge&logo=jquary&logoColor=white)
-   ![AJAX](https://img.shields.io/badge/Ajax%20-%231572B6.svg?style=for-the-badge&logo=ajax&logoColor=white)
+   ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
    ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 
 - **Back-End Development**:
 
-    ![Laravel](https://img.shields.io/badge/Laravel-%23FF9900.svg?style=for-the-badge&logo=laravel&logoColor=white)
+    ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
   
 - **Database and Storage**:
