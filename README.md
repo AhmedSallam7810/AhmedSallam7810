@@ -6,7 +6,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <br>
 Passionate backend developer with a solid understanding of programming fundamentals and experience working with the Laravel framework. Good knowledge in Node.js and React.js, demonstrating a quick learning ability and strong collaborative skills. Dedicated to delivering scalable, and maintainable software solutions. Eager to continue growing as a developer and contribute to a dynamic team-oriented environment.
-- 🤔 I’m currently open for a new `job opportunity`, this is ![MY RESUME](https://drive.google.com/drive/folders/1CY6XlUg-72nciLSuAlVNLcUz9himYPWB).
+- 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1CY6XlUg-72nciLSuAlVNLcUz9himYPWB).
 - 💬 Ask me about anything.
   
 <br>
