@@ -8,8 +8,7 @@
 
 <br>
 
-- 🏫 I am a `Student` at [Faculty of Computer Science & Informatics](https://www.menofia.edu.eg/fci/Home/ar) at [Menofia University](https://www.menofia.edu.eg/Home/ar).
-- 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
+Passionate backend developer with a solid understanding of programming fundamentals and experience working with the Laravel framework. Good knowledge in Node.js and React.js, demonstrating a quick learning ability and strong collaborative skills. Dedicated to delivering scalable, and maintainable software solutions. Eager to continue growing as a developer and contribute to a dynamic team-oriented environment.
 - 🤔 I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/11wQwD_6xmGw0pAuMcMZP-m2MNA1C1Ga4/view?usp=sharing).
 - 💬 Ask me about anything.
   
